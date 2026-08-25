@@ -4,7 +4,7 @@ Resume Genie is an AI-powered suite of services designed to enhance job applicat
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_disuz3disuz3disu.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_disuz3disuz3disu.jpg"
        alt="Project Preview"
        width="600" />
 </p>
